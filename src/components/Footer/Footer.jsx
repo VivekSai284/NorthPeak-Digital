@@ -25,19 +25,39 @@ function Footer() {
 
           <div className="socials">
 
-            <a href="#">
+            <a
+  href="https://facebook.com"
+  target="_blank"
+  rel="noopener noreferrer"
+  aria-label="Visit our Facebook"
+>
               <FaFacebookF />
             </a>
 
-            <a href="#">
+            <a
+  href="https://instagram.com"
+  target="_blank"
+  rel="noopener noreferrer"
+  aria-label="Visit our Instagram"
+>
               <FaInstagram />
             </a>
 
-            <a href="#">
+            <a
+  href="https://linkedin.com"
+  target="_blank"
+  rel="noopener noreferrer"
+  aria-label="Visit our LinkedIn"
+>
               <FaLinkedinIn />
             </a>
 
-            <a href="#">
+            <a
+  href="https://github.com"
+  target="_blank"
+  rel="noopener noreferrer"
+  aria-label="Visit our GitHub"
+>
               <FaGithub />
             </a>
 

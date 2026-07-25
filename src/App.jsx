@@ -11,7 +11,7 @@ import Footer from './components/Footer/Footer';
 function App() {
 
   return (
-    <>
+    <main>
       <Navbar />
       <Hero />
       <Services />
@@ -19,7 +19,7 @@ function App() {
       <Pricing />
       <Contact />
       <Footer />
-    </>
+    </main>
   )
 }
 
