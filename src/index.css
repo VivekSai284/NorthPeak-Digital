@@ -1,0 +1,121 @@
+@import url("https://fonts.googleapis.com/css2?family=Poppins:wght@300;400;500;600;700&display=swap");
+
+:root{
+
+  --primary:#2563EB;
+  --secondary:#0F172A;
+
+  --accent:#38BDF8;
+
+  --background:#F8FAFC;
+
+  --white:#FFFFFF;
+
+  --text:#1E293B;
+
+  --paragraph:#64748B;
+
+  --border:#E2E8F0;
+
+  --container:1200px;
+
+  --transition:.3s ease;
+}
+
+*{
+    margin:0;
+    padding:0;
+    box-sizing:border-box;
+}
+
+html{
+    scroll-behavior:smooth;
+}
+
+body{
+
+    font-family:"Poppins",sans-serif;
+    background:var(--background);
+    color:var(--text);
+}
+
+a{
+    text-decoration:none;
+    color:inherit;
+}
+
+ul{
+    list-style:none;
+}
+
+img{
+    width:100%;
+    display:block;
+}
+
+button{
+
+    border:none;
+    cursor:pointer;
+    font-family:inherit;
+}
+
+:root{
+
+  --primary:#2563EB;
+  --secondary:#0F172A;
+
+  --accent:#38BDF8;
+
+  --background:#F8FAFC;
+
+  --white:#FFFFFF;
+
+  --text:#1E293B;
+
+  --paragraph:#64748B;
+
+  --border:#E2E8F0;
+
+  --container:1200px;
+
+  --transition:.3s ease;
+}
+
+*{
+    margin:0;
+    padding:0;
+    box-sizing:border-box;
+}
+
+html{
+    scroll-behavior:smooth;
+}
+
+body{
+
+    font-family:"Poppins",sans-serif;
+    background:var(--background);
+    color:var(--text);
+}
+
+a{
+    text-decoration:none;
+    color:inherit;
+}
+
+ul{
+    list-style:none;
+}
+
+img{
+    width:100%;
+    display:block;
+}
+
+button{
+
+    border:none;
+    cursor:pointer;
+    font-family:inherit;
+}
