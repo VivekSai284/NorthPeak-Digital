@@ -69,7 +69,7 @@
         padding-left:20px;
         padding-right:20px;
     }
-}
+
 
 .nav-links{
     position:absolute;
@@ -89,4 +89,5 @@
 
 .menu-btn{
     display:block;
+}
 }
